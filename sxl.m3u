@@ -1,18 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="" group-title="电视",广州综合
+#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="" group-title="电视",广州综合 576
 http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzzh
-#EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="" group-title="电视",广州新闻
+#EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="" group-title="电视",广州新闻 576
 http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzxw
-#EXTINF:-1 tvg-id="" tvg-name="广州法治" tvg-logo="" group-title="电视",广州法治
+#EXTINF:-1 tvg-id="" tvg-name="广州法治" tvg-logo="" group-title="电视",广州法治 576
 http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzfz
-#EXTINF:-1 tvg-id="" tvg-name="广州影视" tvg-logo="" group-title="电视",广州影视
+#EXTINF:-1 tvg-id="" tvg-name="广州影视" tvg-logo="" group-title="电视",广州影视 576
 http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzys
-#EXTINF:-1 tvg-id="" tvg-name="广州竞赛" tvg-logo="" group-title="电视",广州竞赛
+#EXTINF:-1 tvg-id="" tvg-name="广州竞赛" tvg-logo="" group-title="电视",广州竞赛 576
 http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzjs
-#EXTINF:-1 tvg-id="" tvg-name="南国都市" tvg-logo="" group-title="电视",南国都市
+#EXTINF:-1 tvg-id="" tvg-name="南国都市" tvg-logo="" group-title="电视",南国都市 576
 http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
 #EXTINF:-1 tvg-id="" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="电视",广东珠江频道
-http://mmitv.top/pltv/itouchtv.php?id=gdzj
+http://ct.whosayssowhat.top:4022/udp/239.77.0.1:5146
+#EXTINF:-1 tvg-id="" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="电视",广东珠江频道 576
+http://ct.whosayssowhat.top:4022/udp/239.77.0.3:5146
 #EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="电视",广东新闻频道
 http://mmitv.top/pltv/itouchtv.php?id=gdxw
 #EXTINF:-1 tvg-id="" tvg-name="广东公共" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV4.png" group-title="电视",广东公共频道
@@ -23,8 +25,10 @@ http://mmitv.top/pltv/itouchtv.php?id=gdys
 http://mmitv.top/pltv/itouchtv.php?id=gdjj
 #EXTINF:-1 tvg-id="" tvg-name="广东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="电视",广东综艺频道
 http://mmitv.top/pltv/itouchtv.php?id=gdzy
-#EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="电视",金鹰卡通
+#EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="电视",金鹰卡通 576
 https://cry33.com/hntv.php?id=287
+#EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="电视",金鹰卡通
+http://223.151.51.27:85/tsfile/live/1016_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="电视",凤凰资讯台
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="电视",凤凰卫视中文台
@@ -45,7 +49,18 @@ astro PRIMA
 http://51.79.82.208:16008
 astro AEC
 http://51.79.82.208:16021
-
+#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="" group-title="电视",广州综合
+http://ct.whosayssowhat.top:4022/udp/239.253.43.71:5146
+#EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="" group-title="电视",广州新闻
+http://ct.whosayssowhat.top:4022/udp/239.253.43.72:5146
+#EXTINF:-1 tvg-id="" tvg-name="广州法治" tvg-logo="" group-title="电视",广州法治
+http://ct.whosayssowhat.top:4022/udp/239.253.43.74:5146
+#EXTINF:-1 tvg-id="" tvg-name="广州影视" tvg-logo="" group-title="电视",广州影视
+http://ct.whosayssowhat.top:4022/udp/239.253.43.73:5146
+#EXTINF:-1 tvg-id="" tvg-name="广州竞赛" tvg-logo="" group-title="电视",广州竞赛
+http://ct.whosayssowhat.top:4022/udp/239.253.43.75:5146
+#EXTINF:-1 tvg-id="" tvg-name="南国都市" tvg-logo="" group-title="电视",南国都市
+http://ct.whosayssowhat.top:4022/udp/239.253.43.99:5146
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",翡翠台
 http://gslb.gcable.cn:8070/live/1350_4500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=idY+moP0UE9Zv+T4H9z90w==&r=20230107213650&e=20230108213655&nc=k1AMCZaGlnRm&a=7&v=2
 #EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="电视",明珠台
@@ -133,7 +148,10 @@ https://ti-content-global.cdn.turner.com/PROD-APAC/C_TJSHOW_XXXXY515_UKL_UKE/720
 
 #EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="猫和老鼠" tvg-logo="" group-title="音乐",卓依婷-找一个字代替
 http://em.21dtv.com/songs/60057715.mkv
-
+#EXTINF:-1 tvg-id="" tvg-name="小猪佩奇" tvg-logo="" group-title="动画",小猪佩奇
+http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="小猪佩奇" tvg-logo="" group-title="动画",小猪佩奇 576
+http://118.26.120.23:55336/tslive/c53_lb_78_600_t10/c53_lb_78_600_t10.m3u8?key=0b292c335e5837e94a815c2c45ffe0057
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",粤语电影
 http://epg.112114.xyz/huya/11352894
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",粤语电影16
