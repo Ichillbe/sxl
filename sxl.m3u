@@ -72,9 +72,9 @@ http://ct.whosayssowhat.top:4022/udp/239.253.43.75:5146
 #EXTINF:-1 tvg-id="" tvg-name="南国都市" tvg-logo="" group-title="电视",南国都市
 http://ct.whosayssowhat.top:4022/udp/239.253.43.99:5146
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",翡翠台
-http://gslb.gcable.cn:8070/live/1350_4500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=idY+moP0UE9Zv+T4H9z90w==&r=20230107213650&e=20230108213655&nc=k1AMCZaGlnRm&a=7&v=2
+http://gslb.gcable.cn:8070/live/1350_4500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=0VUPP0d+zA1YP1adK+Fkow==&r=20230108110814&e=20230109110819&nc=P2yyXbjrB7wE&a=7&v=2
 #EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="电视",明珠台
-http://gslb.gcable.cn:8070/live/1351_4500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=7ZNJFLnJK4qMgc34bT0H5Q==&r=20230107213816&e=20230108213821&nc=mFSkguFFaIjh&a=7&v=2
+http://gslb.gcable.cn:8070/live/1351_4500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=ZE6XmmvjYnh6DCwm2pwvCA==&r=20230108111409&e=20230109111414&nc=nDAsTwBrDeba&a=7&v=2
 #EXTINF:-1 tvg-id="" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",TVB J2
 http://pull-l3-cny.douyincdn.com/live/84788c8a50f6acce0b53018749dc1c21.flv
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",翡翠台马来版
