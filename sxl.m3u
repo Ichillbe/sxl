@@ -33,13 +33,13 @@ http://gslb.gcable.cn:8070/live/gdyingshi_1500.m3u8?t=GeJI&u=freeuser&p=8&pid=&c
 http://gslb.gcable.cn:8070/live/GDjingjikejiaoHD_7000.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=AtPsk8DDjbC0Kna2RfM/QA==&r=20230109081529&e=20230110081534&nc=rnPGRpoTvoTr&a=7&v=2
 #EXTINF:-1 tvg-id="" tvg-name="广东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="电视",广东综艺频道
 http://gslb.gcable.cn:8070/live/GDZYHD4K_38000.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=F1dA3i0dTF6DIf44tcqeGg==&r=20230109081610&e=20230110081615&nc=faybDc3aNLOt&a=7&v=2
-#EXTINF:-1 tvg-id="" tvg-name="广东体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="电视",广东体育频道
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="电视",广东体育频道
 http://gslb.gcable.cn:8070/live/gdsportsHD_7000.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=Tj5a+qVMvmHCfDBbGWquuw==&r=20230109081711&e=20230110081716&nc=XX7oiLig6zPI&a=7&v=2
-#EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="电视",广东南方卫视
+#EXTINF:-1 tvg-id="" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="电视",大湾区卫视
 http://gslb.gcable.cn:8070/live/gdnanfang_1500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=jto/Q5YKQioE2fVurRBX/A==&r=20230109081756&e=20230110081801&nc=HkqI9e6dnFgg&a=7&v=2
 #EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="电视",嘉佳卡通
 http://gslb.gcable.cn:8070/live/gdjiajiacartoon_1500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=IrtCcGNK+3IRft3Q9p5PCg==&r=20230109081852&e=20230110081857&nc=LqUfynQfUnsF&a=7&v=2
-#EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="电视",广东少儿
+#EXTINF:-1 tvg-id="" tvg-name="广东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVSHAO.png" group-title="电视",广东少儿频道
 http://gslb.gcable.cn:8070/live/gdshaoer_1500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=TkD10ntfQZAepnq4mT1WWA==&r=20230109081946&e=20230110081951&nc=L094z5BMcoOX&a=7&v=2
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="电视",广东卫视
 http://gslb.gcable.cn:8070/live/guangdongHD_7000.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=1Ilz9M1XrGLnF3WAzUXwaQ==&r=20230109082039&e=20230110082044&nc=yw2UhrkHBzP5&a=7&v=2
