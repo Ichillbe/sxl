@@ -95,44 +95,48 @@ http://pull-l3-cny.douyincdn.com/live/4574914e1c377eb79ed676c014bfa41c.flv
 #EXTINF:-1 tvg-id="" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="电视",美亞電影台
 http://pull-l3-cny.douyincdn.com/live/d48f0c851ffd563bbe01276688aa5fd6.flv
 
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="电视",CCTV-16 4k
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4k" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="电视",CCTV-4K
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="电视",欢笑剧场 4K
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hxjc4k/15000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="电视",CCTV-1综合
-rtmp://202.204.52.116:1935/livetv/cctv1hd
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="电视",CCTV-2财经
-rtmp://202.204.52.116:1935/livetv/cctv2hd
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv2hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="电视",CCTV-3综艺
-rtmp://202.204.52.116:1935/livetv/cctv3hd
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv3hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="电视",CCTV-4中文国际
-rtmp://202.204.52.116:1935/livetv/cctv4hd
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv4hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="电视",CCTV-5体育
-rtmp://202.204.52.116:1935/livetv/cctv5hd
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="电视",CCTV-5体育
-http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv58m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="电视",CCTV-5+体育赛事
-rtmp://202.204.52.116:1935/livetv/cctv5+hd
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv5phd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="电视",CCTV-6电影
-rtmp://202.204.52.116:1935/livetv/cctv6hd
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv6hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="电视",CCTV-7国防军事
-rtmp://202.204.52.116:1935/livetv/cctv7hd
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv7hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="电视",CCTV-8电视剧
-rtmp://202.204.52.116:1935/livetv/cctv8hd
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv8hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="电视",CCTV-9纪录
-rtmp://202.204.52.116:1935/livetv/cctv9hd
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv9hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="电视",CCTV-10科教
-rtmp://202.204.52.116:1935/livetv/cctv10hd
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv10hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="电视",CCTV-11戏曲
-rtmp://202.204.52.116:1935/livetv/cctv11hd
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv11hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="电视",CCTV-12社会与法
-rtmp://202.204.52.116:1935/livetv/cctv12hd
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv12hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="电视",CCTV-13新闻
-rtmp://202.204.52.116:1935/livetv/cctv13hd
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="电视",CCTV-14少儿
-rtmp://202.204.52.116:1935/livetv/cctv14hd
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctvsehd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="电视",CCTV-15音乐
-rtmp://202.204.52.116:1935/livetv/cctv15hd
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv15hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="电视",CCTV-16奥林匹克频道
-rtmp://202.204.52.116:1935/livetv/cctv16hd
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv16hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="电视",CCTV-17农村农业
-rtmp://202.204.52.116:1935/livetv/cctv17hd
+http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="KBS 1" tvg-logo="" group-title="电视",KBS 1
