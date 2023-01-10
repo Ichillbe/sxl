@@ -21,6 +21,8 @@ http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/jswshd8m/8000000/mn
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="电视",广东珠江频道
 http://gslb.gcable.cn:8070/live/gdzhujiangHD_7500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=lAS2qbHioWYuRTew1MK8kA==&r=20230109235422&e=20230110235427&nc=CIf46lZvFZJd&a=7&v=2
+#EXTINF:-1 tvg-id="" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="电视",广东珠江频道 576
+http://lu1.cc/itv/gdtv/gdtv.php?id=gdzj
 #EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="电视",广东新闻频道 576
 http://gslb.gcable.cn:8070/live/gdnews_1500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=Zw+16+MSwWlvAO3Dd8ww4w==&r=20230109235932&e=20230110235937&nc=o2dlUMUen5Q1&a=7&v=2
 #EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="电视",广东新闻频道
