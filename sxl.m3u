@@ -26,8 +26,7 @@ http://lu1.cc/itv/gdtv/gdtv.php?id=gdzj
 #EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="电视",广东新闻频道 576
 http://gslb.gcable.cn:8070/live/gdnews_1500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=sqRm0kr+hoBUb9OZVhY8Sw==&r=20230111112905&e=20230112112910&nc=cMDfJYW9eeNv&a=7&v=2
 #EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="电视",广东新闻频道
-https://tcdn.itouchtv.cn/live/xwpd.m3u8?t_token=803f81b0415c026dcddfcb8b0b556a8a-K%2Fi66r8RVU2IsSsqzKsmelCEnTFUjpL9%2B1w3eUNoM9uWpHDlbqMvFFLXtmhBjdUJbD5MzOL6a5biBplXKicIT5%2B8pCLEo3Wn0SOn%2FFXcqWPv3yTOPizyQFiRwp27ffSejU52XwC68VoMYrG9NdiefumTeS5xdIDt4VVln%2FWnKfMmVFJrQqTs6SShX6nNHr6zAg7A9lpANO5Hzl5SvNkK9MtoFCnaJYt43N1nEeMl98SOY%2FmrsRtD%2BMJd3bB1oBeY73aeJ7tu6GKFjObQn%2Fn24eUt%2FiuSHplRStAG3ACJd01Ty2hP3IKuR9m1B5gtA022AbM%2Ffict27uAte%2BwAZO5LnrA5VMUj4ZGTicKnZlaLzVk8ai4jRTTybnzyD3dTdTG
-http://lu1.cc/itv/gdtv/gdtv.php?id=xwpd
+http://lu1.cc/itv/gdtv/gdtv.php?id=gdxw
 #EXTINF:-1 tvg-id="" tvg-name="广东公共" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV4.png" group-title="电视",广东公共频道 576
 http://gslb.gcable.cn:8070/live/gdpublic_1500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=NY4zJJOHbtjFqE6xKOq0YA==&r=20230111113302&e=20230112113307&nc=Q1eIc0oTACA5&a=7&v=2
 #EXTINF:-1 tvg-id="" tvg-name="广东公共" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV4.png" group-title="电视",广东公共频道
@@ -88,19 +87,19 @@ https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h2
 #EXTINF:-1 tvg-id="" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="电视",無綫財經·資訊台
 https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1673407793~exp=1673494193~acl=/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/*~hmac=5a4faac5890b8361258b8e4a0094cc31ee1b9dbe442b9b81ae1331c9cfe11dea&p
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",翡翠台 港版
-https://pull-l3-cny.douyincdn.com/live/adc2bbc5e932da122637d48130063c36.flv
+https://pull-l3-cny.douyincdn.com/live/dcdc7485bdfd29430a5185e1a8d9e726.flv
 #EXTINF:-1 tvg-id="" tvg-name="NOW新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",NOW新聞台
-https://pull-l3-cny.douyincdn.com/live/8cb32559679e616b536d01f3d0429266.flv
+https://pull-l3-cny.douyincdn.com/live/b9f3a36f6b3a4429fd5243761c91575c.flv
 #EXTINF:-1 tvg-id="" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",TVB J2
-https://pull-l3-cny.douyincdn.com/live/0f7a21714c20a72a7568cc7d6d0f12db.flv
+https://pull-l3-cny.douyincdn.com/live/c8fe2fc38d13ba777b028133b8b4e496.flv
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",翡翠台马来版
 http://pull-l3-cny.douyincdn.com/live/2b4425d697e78efab39cc797a8087861.flv
 #EXTINF:-1 tvg-id="" tvg-name="Now爆谷星影台" tvg-logo="" group-title="电视",Now爆谷星影台
-https://pull-l3-cny.douyincdn.com/live/bc8b045bb00606054f3466aa067ba0b3.flv
+https://pull-l3-cny.douyincdn.com/live/781b83c0de817746733095992ee4b223.flv
 #EXTINF:-1 tvg-id="" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png" group-title="电视",TVB星河台
-https://pull-l3-cny.douyincdn.com/live/cf376345ef418c556ab1a167a2dca28f.flv
+https://pull-l3-cny.douyincdn.com/live/feb27660bafe2606f4bccb06e8d9e95f.flv
 #EXTINF:-1 tvg-id="" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="电视",美亞電影台
-https://pull-l3-cny.douyincdn.com/live/725e0d320f979455d1626de00240d44d.flv
+https://pull-l3-cny.douyincdn.com/live/d61b0fc66dccbdf40bdbdd843528f750.flv
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="电视",CCTV-16 4k
 http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv16hd4k/15000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4k" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="电视",CCTV-4K
