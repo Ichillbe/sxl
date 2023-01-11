@@ -87,19 +87,23 @@ https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h2
 #EXTINF:-1 tvg-id="" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="电视",無綫財經·資訊台
 https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1673407793~exp=1673494193~acl=/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/*~hmac=5a4faac5890b8361258b8e4a0094cc31ee1b9dbe442b9b81ae1331c9cfe11dea&p
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",翡翠台 港版
-https://pull-l3-cny.douyincdn.com/live/dcdc7485bdfd29430a5185e1a8d9e726.flv
-#EXTINF:-1 tvg-id="" tvg-name="NOW新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",NOW新聞台
-https://pull-l3-cny.douyincdn.com/live/b9f3a36f6b3a4429fd5243761c91575c.flv
+https://pull-l3-cny.douyincdn.com/live/b31381dda8c2c71439be610ea58bf7f7.flv
+#EXTINF:-1 tvg-id="" tvg-name="NOW新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",NOW新聞台
+https://pull-l3-cny.douyincdn.com/live/56113837a30cf846b2b153567c950358.flv
+#EXTINF:-1 tvg-id="" tvg-name="有线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",有线新闻台
+https://pull-l3-cny.douyincdn.com/live/4e7fbf13d9bbb65e931adcbd8cad49de.flv
+#EXTINF:-1 tvg-id="" tvg-name="有线体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",有线体肓台
+https://pull-l3-cny.douyincdn.com/live/4095a8ef71dae0b9a9431c54727c3c0e.flv
 #EXTINF:-1 tvg-id="" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",TVB J2
-https://pull-l3-cny.douyincdn.com/live/c8fe2fc38d13ba777b028133b8b4e496.flv
+https://pull-l3-cny.douyincdn.com/live/79c26e13f2048f306ecab27d8588085b.flv
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",翡翠台马来版
 http://pull-l3-cny.douyincdn.com/live/2b4425d697e78efab39cc797a8087861.flv
 #EXTINF:-1 tvg-id="" tvg-name="Now爆谷星影台" tvg-logo="" group-title="电视",Now爆谷星影台
-https://pull-l3-cny.douyincdn.com/live/781b83c0de817746733095992ee4b223.flv
+https://pull-l3-cny.douyincdn.com/live/183b11950f054bedeacf24f19c0c5fdb.flv
 #EXTINF:-1 tvg-id="" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png" group-title="电视",TVB星河台
-https://pull-l3-cny.douyincdn.com/live/feb27660bafe2606f4bccb06e8d9e95f.flv
+https://pull-l3-cny.douyincdn.com/live/4264b976121593a46993b6921a77e07d.flv
 #EXTINF:-1 tvg-id="" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="电视",美亞電影台
-https://pull-l3-cny.douyincdn.com/live/d61b0fc66dccbdf40bdbdd843528f750.flv
+https://pull-l3-cny.douyincdn.com/live/45debe2686798add36b8d45f53d025c4.flv
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="电视",CCTV-16 4k
 http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv16hd4k/15000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4k" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="电视",CCTV-4K
