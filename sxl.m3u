@@ -76,9 +76,9 @@ http://gslb.gcable.cn:8070/live/1350_4500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d
 #EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="电视",明珠台
 http://gslb.gcable.cn:8070/live/1351_4500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=xe+Q7VU2tfflY4O6u9tkwA==&r=20230114014955&e=20230115015000&nc=VHuIR6KjvzLt&a=7&v=2
 #EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="电视",無綫新聞台
-https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1673631526~exp=1673717926~acl=/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=ec51f280453d6c2e7afb317fd54a680ba68712caa340beee4e7d18c03544f338&p
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1673632175~exp=1673718575~acl=/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=a46029995f96e0ced87cae49a2995f636516e7d910e3b890a0e09e1925656666&p
 #EXTINF:-1 tvg-id="" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="电视",無綫財經·資訊台
-https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1673631661~exp=1673718061~acl=/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/*~hmac=2d3dd053e572b225e08b65acf19468a193fb23125ecc7e9c645efe8b76099251&p
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1673632236~exp=1673718636~acl=/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/*~hmac=095d4d06f5d963f92d59b79faa881b35275208328bd89ba95d031702236593b4&p
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",翡翠台 港版
 http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",TVB J2
