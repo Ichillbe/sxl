@@ -85,6 +85,8 @@ http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
 http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",TVB J2
 https://pull-l3-cny.douyincdn.com/live/519b8125fdf1c751a13b10da57b5cc1b.flv
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",翡翠台 II
+http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
 #EXTINF:-1 tvg-id="" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png" group-title="电视",TVB星河台
 https://pull-l3-cny.douyincdn.com/live/ffce21a36c4c7cc114cd7ec6c4399240.flv
 #EXTINF:-1 tvg-id="" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png" group-title="电视",动物星球
@@ -93,8 +95,6 @@ http://pull-l3-cny.douyincdn.com/live/eac374df3c06e8985d587224a056f483.m3u8
 http://pull-l3-cny.douyincdn.com/live/9dbd2556b180db11b62283739297981b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="八大戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png" group-title="电视",八大戏剧台
 http://pull-l3-cny.douyincdn.com/live/d031f22e749d09f261df822eb69fd743.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="八大综合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png" group-title="电视",八大综合台
-http://pull-l3-cny.douyincdn.com/live/5228b1fb91b765911e64c9843f989267.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="电视",美亞電影台
 https://pull-l3-cny.douyincdn.com/live/c855b5aa5271ee59014aec104f4cdd11.flv
 #EXTINF:-1 tvg-id="" tvg-name="求索纪录" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="电视",求索纪录
