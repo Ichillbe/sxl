@@ -85,8 +85,6 @@ http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
 http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",TVB J2
 https://pull-l3-cny.douyincdn.com/live/519b8125fdf1c751a13b10da57b5cc1b.flv
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",翡翠台 II
-http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
 #EXTINF:-1 tvg-id="" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png" group-title="电视",TVB星河台
 https://pull-l3-cny.douyincdn.com/live/ffce21a36c4c7cc114cd7ec6c4399240.flv
 #EXTINF:-1 tvg-id="" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png" group-title="电视",动物星球
@@ -157,7 +155,6 @@ http://xuehanwei.my03.com:8888/udp/239.253.93.154:6322
 http://xuehanwei.my03.com:8888/udp/239.253.93.207:6385
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="电视",CCTV-17农村农业
 http://xuehanwei.my03.com:8888/udp/239.253.93.150:6318
-
 #EXTINF:-1 tvg-id="" tvg-name="KBS 1" tvg-logo="" group-title="电视",KBS 1
 http://mytv.dothome.co.kr/ch/public/1.php
 #EXTINF:-1 tvg-id="" tvg-name="KBS 2" tvg-logo="" group-title="电视",KBS 2
@@ -184,12 +181,6 @@ https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK WORLD 华语视界" tvg-logo="" group-title="电视",NHK WORLD 华语视界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="猫和老鼠" tvg-logo="" group-title="动画",猫和老鼠
-https://ti-content-global.cdn.turner.com/PROD-APAC/C_TJSHOW_XXXXY515_UKL_UKE/72082b50-7141-46fb-8515-7b88d2e0f8a1/PCTV.m3u8
-
-#EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="猫和老鼠" tvg-logo="" group-title="音乐",卓依婷-找一个字代替
-http://em.21dtv.com/songs/60057715.mkv
 #EXTINF:-1 tvg-id="" tvg-name="小猪佩奇" tvg-logo="" group-title="动画",小猪佩奇
 http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="小猪佩奇" tvg-logo="" group-title="动画",小猪佩奇 576
