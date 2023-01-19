@@ -91,6 +91,11 @@ https://pull-l3-cny.douyincdn.com/live/ffce21a36c4c7cc114cd7ec6c4399240.flv
 http://www.yshmzmc.top/gtjm.php?id=live1004
 #EXTINF:-1 tvg-id="" tvg-name="八大第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png" group-title="电视",八大第一台
 http://www.yshmzmc.top/gtjm.php?id=live1043
+#EXTINF:-1 tvg-id="" tvg-1111
+#http://www.yshmzmc.top/gtjm.php?id=live2002
+#EXTINF:-1 tvg-id="" tvg-1111
+#http://www.yshmzmc.top/gtjm.php?id=live1040
+#https://st.biztv.uz/hls/stream_hi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="八大戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png" group-title="电视",八大戏剧台
 http://pull-l3-cny.douyincdn.com/live/d031f22e749d09f261df822eb69fd743.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png" group-title="电视",Discovery
