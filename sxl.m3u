@@ -19,6 +19,8 @@ http://xuehanwei.my03.com:8888/udp/239.253.92.88:8018
 http://gslb.gcable.cn:8070/live/gdzhujiangHD_7500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=yMdUc39U6+Jxnbi7ydwhUw==&r=20230114010753&e=20230115010758&nc=aYtccgmPm15h&a=7&v=2
 #EXTINF:-1 tvg-id="" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="电视",广东珠江频道 576
 http://lu1.cc/itv/gdtv/gdtv.php?id=gdzj
+#EXTINF:-1 tvg-id="" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="电视",广东珠江频道 5762
+http://ainm.cc/c/tv/gdtv/gdtv.php?id=gdzj
 #EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="电视",广东新闻频道 576
 http://gslb.gcable.cn:8070/live/gdnews_1500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=y11pPcLctEH24QpCpOWz9w==&r=20230114011331&e=20230115011336&nc=H2GbIlXVQUeS&a=7&v=2
 #EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="电视",广东新闻频道
