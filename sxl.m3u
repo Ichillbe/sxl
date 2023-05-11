@@ -38,7 +38,7 @@ http://gslb.gcable.cn:8070/live/GDjingjikejiaoHD_7000.m3u8?t=GeJI&u=freeuser&p=8
 #EXTINF:-1 tvg-id="" tvg-name="广东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="电视",广东综艺频道
 http://gslb.gcable.cn:8070/live/GDZYHD4K_38000.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=nZVY9MDuevTXMPeEHj9b2A==&r=20230115120723&e=20230116120728&nc=lCVVTALx9goF&a=7&v=2
 #EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="电视",大湾区卫视 576
-
+http://lu1.cc/a/play/php/itouch.php?id=nfws
 #EXTINF:-1 tvg-id="" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="电视",大湾区卫视
 http://lu1.cc/a/play/php/itouch.php?id=nfws
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="电视",广东体育频道
