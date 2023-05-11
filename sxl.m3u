@@ -38,7 +38,8 @@ http://gslb.gcable.cn:8070/live/GDjingjikejiaoHD_7000.m3u8?t=GeJI&u=freeuser&p=8
 #EXTINF:-1 tvg-id="" tvg-name="广东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="电视",广东综艺频道
 http://gslb.gcable.cn:8070/live/GDZYHD4K_38000.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=nZVY9MDuevTXMPeEHj9b2A==&r=20230115120723&e=20230116120728&nc=lCVVTALx9goF&a=7&v=2
 #EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="电视",大湾区卫视 576
-#:-1 tvg-id="" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="电视",大湾区卫视
+
+#EXTINF:-1 tvg-id="" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="电视",大湾区卫视
 http://lu1.cc/a/play/php/itouch.php?id=nfws
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="电视",广东体育频道
 http://gslb.gcable.cn:8070/live/gdsportsHD_7000.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=1lqBsvoU9TatEHZKaTydXQ==&r=20230114010910&e=20230115010915&nc=mLmxK2MQLlwl&a=7&v=2
@@ -73,11 +74,11 @@ http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="亚州新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="电视",亚州新闻台
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",翡翠台 HK
-https://pull-l3-cny.douyincdn.com/live/7cc9ee2c6b10c331761f782731621ca5.flv
+https://pull-l3-cny.douyincdn.com/live/f2b5772821ac484d4064a2fd31733a91.flv
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",翡翠台
-http://27.36.62.162:9090/live/1350_4500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=QGb0tqhaS1VbKalFOStm7A==&r=20230511234944&e=20230512234949&nc=Pj1w2JuqcDLa&a=7&v=2&isSuma=1&hlsSessionID=8739236746566215396&srchost=172.16.149.181:8060&gid=TN%2B0Q4kTZtJFuQp1POdVoA%3D%3D
+http://27.36.62.162:9090/live/1350_4500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=WdqsEtA2a7IoRUzEv3nCHw==&r=20230511235716&e=20230512235721&nc=cd0pQxUK9P0j&a=7&v=2&isSuma=1&hlsSessionID=8739236746566215856&srchost=172.16.149.181:8060&gid=2dsz4BWahkWnXKkHAQLnSA%3D%3D
 #EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="电视",明珠台
-http://27.36.62.162:9090/live/1351_4500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=TRLkfGMYkFThXzOOhdCIyg==&r=20230511235138&e=20230512235143&nc=j362WgOutgLx&a=7&v=2&isSuma=1&hlsSessionID=8739236746566215498&srchost=172.16.149.181:8060&gid=6HOsO57R5F4OGePCZMKTZw%3D%3D
+http://27.36.62.162:9090/live/1351_4500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=DRtNEuHpXPiHMGvUyKeXIw==&r=20230512000329&e=20230513000334&nc=MCC0UANdipl5&a=7&v=2&isSuma=1&hlsSessionID=17024452686044432433&srchost=172.16.149.181:8060&gid=YBqxOWooSl9rfERDR0rAsw%3D%3D
 #EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="电视",無綫新聞台
 https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1683819611~exp=1683906011~acl=/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=700a7bc1fc324b69a1cf414ccc5fd13ec11d7c95810f1ecea211d2c53740ea49&p
 #EXTINF:-1 tvg-id="" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="电视",無綫財經·資訊台
