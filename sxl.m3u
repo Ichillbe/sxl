@@ -76,13 +76,13 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",翡翠台 HK
 https://pull-l3-cny.douyincdn.com/live/1ee7fb79d4a7c55988b26fd1670149db.flv
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",翡翠台
-http://27.36.62.162:9090/live/1350_4500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=47W5ukOa9rmhY+6iSU9cqA==&r=20230531014958&e=20230601015003&nc=bPtzYBX1tPsZ&a=7&v=2&isSuma=1&hlsSessionID=8739236746570566568&srchost=172.16.149.181:8060&gid=u7%2Fk2jvEHMJT6iWY89%2BtCA%3D%3D
+http://27.36.62.162:9090/live/1350_4500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=mUF8Z6cQ31eqyya+x/0soA==&r=20230601234305&e=20230602234310&nc=xwS6kShy0wfb&a=7&v=2&isSuma=1&hlsSessionID=17024452686049381820&srchost=172.16.149.181:8060&gid=yCsbzIKcLUqehVt%2BsJRMPg%3D%3D
 #EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="电视",明珠台
-http://27.36.62.162:9090/live/1351_4500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=/u0WiUsmiAOdsYKnFY7pzw==&r=20230531015152&e=20230601015157&nc=y2Qz5R0lXocs&a=7&v=2&isSuma=1&hlsSessionID=17024452686048770478&srchost=172.16.149.181:8060&gid=FyErTZFRvYT7e9AAON%2Bnzg%3D%3D
+http://27.36.62.162:9090/live/1351_4500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=cXrCtGkFibYAtbZdY9fTPw==&r=20230601234713&e=20230602234718&nc=HpFc6xSnCGbY&a=7&v=2&isSuma=1&hlsSessionID=17024452686049382150&srchost=172.16.149.181:8060&gid=Zy7hLAwOGFFwLxxCKZmsZw%3D%3D
 #EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="电视",無綫新聞台
-https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1685468346~exp=1685554746~acl=/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=f8f68f4dc47d5ab10c32c18d877ffedc18814a150303d9fe4477177bb282404a&p
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1685633708~exp=1685720108~acl=/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=1bd5d382f8f95029f340f4943dbabb4da82b25495627ffb5df8fd890a36b11da&p
 #EXTINF:-1 tvg-id="" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="电视",無綫財經·資訊台
-https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1685468446~exp=1685554846~acl=/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/*~hmac=c0876503b16f6a9eb99367cd0773d27fa539f28defa1b874db97ab89bc9cc169&p
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1685633774~exp=1685720174~acl=/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/*~hmac=91895b33ddb054684201004c7ad327e10bf7ace484e44020bfb510faca4dc9e3&p
 #EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="电视",ViuTV
 http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",翡翠台 港版
