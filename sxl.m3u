@@ -73,16 +73,18 @@ http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929
 http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="" tvg-name="亚州新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="电视",亚州新闻台
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",BBC Earth
+https://pull-l3-cny.douyincdn.com/live/96a42e8e9a1eb794070e4d731c8024a1.flv
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",翡翠台 HK
-https://pull-l3-cny.douyincdn.com/live/1ee7fb79d4a7c55988b26fd1670149db.flv
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-591e1fb5-6405-40dc-806d-fd47ffd1b474.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",翡翠台
-http://27.36.62.162:9090/live/1350_4500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=E9FPbkroWzTu2P+KP2jLFQ==&r=20230605004258&e=20230606004303&nc=DfqzzPnatLpB&a=7&v=2&isSuma=1&hlsSessionID=8739236746572093661&srchost=172.16.149.181:8060&gid=RAjb646GNSOffAIDQPLIHA%3D%3D
+http://27.36.62.162:9090/live/1350_4500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=Epei3XeUCRAobma3mcuObw==&r=20230606004616&e=20230607004621&nc=Mqdr9fbszlJG&a=7&v=2&isSuma=1&hlsSessionID=8739236746572365543&srchost=172.16.149.181:8060&gid=M5cD6jyqo4simqchJRepIA%3D%3D
 #EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="电视",明珠台
-http://27.36.62.162:9090/live/1351_4500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=oOpoa2NTkgbtuizSe2fSSw==&r=20230605004537&e=20230606004542&nc=70uKCkflNBs7&a=7&v=2&isSuma=1&hlsSessionID=8739236746572093725&srchost=172.16.149.181:8060&gid=62n8gLyg5enXlbNlC5zwgA%3D%3D
+http://27.36.62.162:9090/live/1351_4500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=fL842q77Bh+uBEGbIBlOsA==&r=20230606004923&e=20230607004928&nc=XRlMxAbul01X&a=7&v=2&isSuma=1&hlsSessionID=8739236746572365712&srchost=172.16.149.181:8060&gid=njnz3TdPyFhOZn%2BWPNOK%2Bw%3D%3D
 #EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="电视",無綫新聞台
-https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1685896461~exp=1685982861~acl=/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=52fc27def8c3b2a3294f269a17693e9619685a77b5843042f6455ef6695d0276&p
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1685982811~exp=1686069211~acl=/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=73b723611ddbe1ae25b056e632ea7881363f5df4adeb4f116c3974d2a69ecdaf&p
 #EXTINF:-1 tvg-id="" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="电视",無綫財經·資訊台
-https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1685896548~exp=1685982948~acl=/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/*~hmac=178bbdfe14e9235d5a9ec493e6a409a9230b9645cbe1a8e570178f745346feaf&p
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1685983018~exp=1686069418~acl=/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/*~hmac=3836b9d8e8990b7d3a91973b3e07d657972b1bd935e4739fbd91815c2cfaec21&p
 #EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="电视",ViuTV
 http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",翡翠台 港版
