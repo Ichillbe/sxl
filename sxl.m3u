@@ -86,17 +86,17 @@ https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h2
 #EXTINF:-1 tvg-id="" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="电视",無綫財經·資訊台
 https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1686094703~exp=1686181103~acl=/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/*~hmac=461eef72f58d01eef2989a8193b57f75f9c57ceee74f6934725d5a7107ab2baf&p
 #EXTINF:-1 tvg-id="" tvg-name="HOY資訊台(78台)" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="电视",HOY資訊台(78台)
-https://yeslivetv.com/tvphp/stream/hoynews.m3u8?md5=pp3GPpNmN2xgMX5Ef21I9g&expires=1686096083
+https://yeslivetv.com/tvphp/stream/hoynews.m3u8?md5=WIRtVbuhmRtlpqSzHS242w&expires=1686097686
 #EXTINF:-1 tvg-id="" tvg-name="HOY TV開電視(77台)" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="电视",HOY TV開電視(77台)
-https://yeslivetv.com/tvphp/stream/hoytv.m3u8?md5=nEC97RqukKBPXhvVukZ9AQ&expires=1686096579
+https://yeslivetv.com/tvphp/stream/hoytv.m3u8?md5=cI7zus1tupP7yVPJWmlWlA&expires=1686097733
 #EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="电视",ViuTV
-https://yeslivetv.com/tvphp/stream/viu.m3u8?md5=6FGi2OEtR4iYgxVSHRwA5Q&expires=1686095863
+https://yeslivetv.com/tvphp/stream/viu.m3u8?md5=CBVqtsf3x9-DneqR_5wptw&expires=1686097395
 #EXTINF:-1 tvg-id="" tvg-name="ViuTV Six" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="电视",ViuTV Six
-https://yeslivetv.com/tvphp/stream/viu6.m3u8?md5=h8CPlvxhzkds7o_hmXiWRw&expires=1686095985
+https://yeslivetv.com/tvphp/stream/viu6.m3u8?md5=1nGtJvEU1EseUpLvYqwLmA&expires=1686097517
 #EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",无线新闻台 港版
-https://yeslivetv.com/tvphp/stream/tvb-news.m3u8?md5=_puKQI-BHM8tXjp_ElcKjg&expires=1686096750
+https://yeslivetv.com/tvphp/stream/tvb-news.m3u8?md5=cWteBz2tkoBavGCK-FfH7A&expires=1686097569
 #EXTINF:-1 tvg-id="" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",TVB J2
-https://yeslivetv.com/tvphp/stream/tvb-j2.m3u8?md5=NLdxG1MUlmsTH9CLgkY5FA&expires=1686096624
+https://yeslivetv.com/tvphp/stream/tvb-j2.m3u8?md5=WIDKFZyRXw-Ue6OErx9HwA&expires=1686097629
 #EXTINF:-1 tvg-id="" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png" group-title="电视",TVB星河台
 https://pull-l3-cny.douyincdn.com/live/ffce21a36c4c7cc114cd7ec6c4399240.flv
 #EXTINF:-1 tvg-id="" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png" group-title="电视",动物星球
