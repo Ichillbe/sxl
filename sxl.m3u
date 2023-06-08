@@ -74,19 +74,19 @@ http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/
 #EXTINF:-1 tvg-id="" tvg-name="亚州新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="电视",亚州新闻台
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC earth" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",BBC earth
-https://pull-l3-cny.douyincdn.com/live/e8b5752e89c905460e60a7d046259a78.flv
+https://pull-l3-cny.douyincdn.com/live/aba12b33cc271fc1786f5bdd5be47a73.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",翡翠台
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-071226da-3d0e-4342-80b8-1d3ef983d558.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="电视",明珠台
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-07b4bebb-5da5-4d87-8f6d-a4bcf073e8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",翡翠台.广东版
-http://27.36.62.162:9090/live/1350_4500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=ASU5smSbol+Lv06RgbZssg==&r=20230608000613&e=20230609000618&nc=iIjwMU0b3tV2&a=7&v=2&isSuma=1&hlsSessionID=8739236746572930622&srchost=172.16.149.181:8060&gid=OSIzMyvZ3ik2H7BXi0Qepg%3D%3D
+http://27.36.62.162:9090/live/1350_4500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=rohXOX0pwFy2LJ5vAxszMg==&r=20230609001712&e=20230610001717&nc=mDZBnonEAUaE&a=7&v=2&isSuma=1&hlsSessionID=17024452686051434984&srchost=172.16.149.181:8060&gid=viBUyY9e112WQrmAQjdt%2FQ%3D%3D
 #EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="电视",明珠台.广东版
-http://27.36.62.162:9090/live/1351_4500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=W2mDepwjhanGx0lhL3iMZA==&r=20230608000757&e=20230609000802&nc=4OgEtqhFTXFL&a=7&v=2&isSuma=1&hlsSessionID=8739236746572930746&srchost=172.16.149.181:8060&gid=JkwWQ7Nrr79lUL%2BKfvA5LA%3D%3D
+http://27.36.62.162:9090/live/1351_4500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=O7XZ6QiqIjkfeLhGj7G9TA==&r=20230609001832&e=20230610001837&nc=EoAbRFtoCi2z&a=7&v=2&isSuma=1&hlsSessionID=8739236746573215355&srchost=172.16.149.181:8060&gid=C92k2mKqSZ%2BVWg%2FJ5QDYdQ%3D%3D
 #EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="电视",無綫新聞台
-https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1686153504~exp=1686239904~acl=/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=c8ff274fcdeefb9e81ec5a41ede374403d2fc25ebcb6e84021cecc6eec10e226&p
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1686239513~exp=1686325913~acl=/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=0edeebefbacd156c4e5ce71316799cb5ec71a6452cbdbf4cfaa24c8200be45d5&p
 #EXTINF:-1 tvg-id="" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="电视",無綫財經·資訊台
-https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1686153596~exp=1686239996~acl=/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/*~hmac=84a744fc4b241a7a6b44311af00e43094333d139aa4a99e2751ef8276e3b7b43&p
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1686239564~exp=1686325964~acl=/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/*~hmac=5690621a97e9f9c9101c107de4f7b65f8e271c148aa907da62a48302a9f38c89&p
 #EXTINF:-1 tvg-id="" tvg-name="HOY資訊台(78台)" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="电视",HOY資訊台(78台)
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-29751518-9645-429f-b569-6cbdfaeb01b8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HOY TV開電視(77台)" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="电视",HOY TV開電視(77台)
@@ -100,11 +100,11 @@ https://pull-l3-cny.douyincdn.com/live/YesLiveTV-754e822c-2d75-4f2b-a34d-d39a896
 #EXTINF:-1 tvg-id="" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",TVB J2
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-3200bfcf-bde3-468f-a0a3-b53974d7741c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Now爆谷台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",Now爆谷台.原声版
-https://dispatch.ulivetv.net/v/live/cmkuy5dkxsxs.m3u8?stream_id=cmkuy5dkxsxs&timestamp=1686154579&rand=zO1LNg7SHD&uuid=9b647b3816b2a66a&from=web&sign=6ecd0bd26a676cc130bf159ab71bb59e
+https://dispatch.ulivetv.net/v/live/cmkuy5dkxsxs.m3u8?stream_id=cmkuy5dkxsxs&timestamp=1686241311&rand=KhfuDNHHrO&uuid=9b647b3816b2a66a&from=web&sign=1fae7ee523510dd31268f5e2ca05b4a0
 #EXTINF:-1 tvg-id="" tvg-name="Now爆谷星影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",Now爆谷星影台
 https://dispatch.ulivetv.net/v/live/cnkheuwi3mww.m3u8?stream_id=cnkheuwi3mww&timestamp=1686155174&rand=brcWzh2oac&uuid=9b647b3816b2a66a&from=web&sign=d099f31d57e17f50f6b70f6e59aeec19
 #EXTINF:-1 tvg-id="" tvg-name="Now新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",Now新闻台
-https://dispatch.ulivetv.net/v/live/cfxqkxoxany8.m3u8?stream_id=cfxqkxoxany8&timestamp=1686155399&rand=B6i3P6dIMl&uuid=9b647b3816b2a66a&from=web&sign=e8b3d342405690d5293c9a5efbea651f
+https://dispatch.ulivetv.net/v/live/cfxqkxoxany8.m3u8?stream_id=cfxqkxoxany8&timestamp=1686241213&rand=gaDiDQsvDh&uuid=9b647b3816b2a66a&from=web&sign=e2d8e34285cff77277401b6632ef78c2
 #EXTINF:-1 tvg-id="" tvg-name="Now华剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",Now华剧台
 https://dispatch.ulivetv.net/v/live/ciw8gb4fs8g0.m3u8?stream_id=ciw8gb4fs8g0&timestamp=1686155512&rand=9f1i7O9y4n&uuid=9b647b3816b2a66a&from=web&sign=586c508395c10f89af5c7e49cd86ffed
 #EXTINF:-1 tvg-id="" tvg-name="星河台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",星河台.粤语
