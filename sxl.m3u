@@ -96,9 +96,9 @@ https://pull-l3-cny.douyincdn.com/live/YesLiveTV-47fb32ed-d22d-42a0-b31b-eed8ffa
 #EXTINF:-1 tvg-id="" tvg-name="ViuTV Six" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="电视",ViuTV Six
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-251195f1-6a9e-498a-8d34-d0f76e021df2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",无线新闻台 720
-#https://pull-l3-cny.douyincdn.com/live/YesLiveTV-80a74a86-749d-44a1-962f-3e439e7a2ef4.m3u8
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-80a74a86-749d-44a1-962f-3e439e7a2ef4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="电视",無綫財經·體育·資訊台
-#https://pull-l3-cny.douyincdn.com/live/YesLiveTV-03964822-d615-43d3-84e6-3cdc1ce9b012.m3u8
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-03964822-d615-43d3-84e6-3cdc1ce9b012.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",TVB J2
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-28da13b9-7e84-4e4d-9a82-32b872513d14.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",TVBS新聞台
@@ -109,7 +109,8 @@ https://pull-l3-cny.douyincdn.com/live/YesLiveTV-2432b4d1-a32d-4f7c-bea7-b9ed4cf
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-112fcbfa-d661-4147-a1a5-54954a3c74ac.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="東森新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",東森新聞台
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-27389d3f-2d57-45da-b3d7-638673fc42c3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="年代新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",年代新聞台#https://pull-l3-cny.douyincdn.com/live/YesLiveTV-9963bf53-664f-4e6b-bc54-42954f42d2cf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="年代新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",年代新聞台
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-9963bf53-664f-4e6b-bc54-42954f42d2cf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Now爆谷台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",Now爆谷台.原声版
 https://dispatch.ulivetv.net/v/live/cmkuy5dkxsxs.m3u8?stream_id=cmkuy5dkxsxs&timestamp=1686241311&rand=KhfuDNHHrO&uuid=9b647b3816b2a66a&from=web&sign=1fae7ee523510dd31268f5e2ca05b4a0
 #EXTINF:-1 tvg-id="" tvg-name="Now爆谷星影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",Now爆谷星影台
