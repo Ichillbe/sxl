@@ -92,11 +92,13 @@ https://pull-l3-cny.douyincdn.com/live/YesLiveTV-29751518-9645-429f-b569-6cbdfae
 #EXTINF:-1 tvg-id="" tvg-name="HOY TV開電視(77台)" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="电视",HOY TV開電視(77台)
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-616ed7aa-7f64-4b96-9c32-70d30de0c952.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="电视",ViuTV
-https://pull-l3-cny.douyincdn.com/live/YesLiveTV-6108c885-1f43-48b0-8da4-13a1a14105f8.m3u8
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-21c236cd-a319-404f-92b3-9e63e5263a02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ViuTV Six" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="电视",ViuTV Six
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-251195f1-6a9e-498a-8d34-d0f76e021df2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",TVB J2
+#EXTINF:-1 tvg-id="" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",TVB J2 720
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-2609cbef-367d-4847-aed9-d962ae4bbed6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",TVB J2
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-6108c885-1f43-48b0-8da4-13a1a14105f8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",TVBS新聞台
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-68594525-2565-4103-8454-49840ad768c0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",TVBS 56台
@@ -105,8 +107,8 @@ https://pull-l3-cny.douyincdn.com/live/YesLiveTV-2432b4d1-a32d-4f7c-bea7-b9ed4cf
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-112fcbfa-d661-4147-a1a5-54954a3c74ac.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="東森新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",東森新聞台
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-27389d3f-2d57-45da-b3d7-638673fc42c3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Now爆谷台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",Now爆谷台.原声版
-https://dispatch.ulivetv.net/v/live/cmkuy5dkxsxs.m3u8?stream_id=cmkuy5dkxsxs&timestamp=1686241311&rand=KhfuDNHHrO&uuid=9b647b3816b2a66a&from=web&sign=1fae7ee523510dd31268f5e2ca05b4a0
+#EXTINF:-1 tvg-id="" tvg-name="Now爆谷台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",Now爆谷台.原声版测试
+https://stream.yeslivetv.com/live/YesLiveTV-tvbnews-16121490.m3u8?md5=0m1JDd1Urfis8iXjYpAswQ&expires=1686666027
 #EXTINF:-1 tvg-id="" tvg-name="Now爆谷星影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",Now爆谷星影台
 https://dispatch.ulivetv.net/v/live/cnkheuwi3mww.m3u8?stream_id=cnkheuwi3mww&timestamp=1686155174&rand=brcWzh2oac&uuid=9b647b3816b2a66a&from=web&sign=d099f31d57e17f50f6b70f6e59aeec19
 #EXTINF:-1 tvg-id="" tvg-name="Now新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",Now新闻台
