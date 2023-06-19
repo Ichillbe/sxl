@@ -24,21 +24,21 @@ http://ainm.cc/c/tv/gdtv/gdtv.php?id=gdzj
 #EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="电视",广东新闻频道 576
 http://gslb.gcable.cn:8070/live/gdnews_1500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=y11pPcLctEH24QpCpOWz9w==&r=20230114011331&e=20230115011336&nc=H2GbIlXVQUeS&a=7&v=2
 #EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="电视",广东新闻频道
-http://lu1.cc/itv/gdtv/gdtv.php?id=gdxw
+http://ainm.cc/c/tv/gdtv/gdtv.php?id=gdxw
 #EXTINF:-1 tvg-id="" tvg-name="广东公共" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV4.png" group-title="电视",广东公共频道 576
 http://gslb.gcable.cn:8070/live/gdpublic_1500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=T6G9vOu3YBQLC6g7l9caNg==&r=20230114011414&e=20230115011419&nc=WHunEP42OpRZ&a=7&v=2
 #EXTINF:-1 tvg-id="" tvg-name="广东公共" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV4.png" group-title="电视",广东公共频道
-http://lu1.cc/itv/gdtv/gdtv.php?id=gdgg
+http://ainm.cc/c/tv/gdtv/gdtv.php?id=gdgg
 #EXTINF:-1 tvg-id="" tvg-name="广东影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVMOV.png" group-title="电视",广东影视频道 576
 http://gslb.gcable.cn:8070/live/gdyingshi_1500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=X8mYZXwpCttS4penCGFeWg==&r=20230114011716&e=20230115011721&nc=2wAN0dSOPkdY&a=7&v=2
 #EXTINF:-1 tvg-id="" tvg-name="广东影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVMOV.png" group-title="电视",广东影视频道
-http://lu1.cc/itv/gdtv/gdtv.php?id=gdys
+http://ainm.cc/c/tv/gdtv/gdtv.php?id=gdys
 #EXTINF:-1 tvg-id="" tvg-name="广东经济" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVECO.png" group-title="电视",广东经济科教频道
 http://gslb.gcable.cn:8070/live/GDjingjikejiaoHD_7000.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=v3C38fkpsVcbu9YjtyeU3g==&r=20230114011039&e=20230115011044&nc=DkuyFMJPANXc&a=7&v=2
 #EXTINF:-1 tvg-id="" tvg-name="广东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="电视",广东综艺频道
 http://gslb.gcable.cn:8070/live/GDZYHD4K_38000.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=nZVY9MDuevTXMPeEHj9b2A==&r=20230115120723&e=20230116120728&nc=lCVVTALx9goF&a=7&v=2
 #EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="电视",大湾区卫视 576
-http://lu1.cc/a/play/php/itouch.php?id=nfws
+http://ainm.cc/c/tv/gdtv/gdtv.php?id=nfws
 #EXTINF:-1 tvg-id="" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="电视",大湾区卫视
 http://lu1.cc/a/play/php/itouch.php?id=nfws
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="电视",广东体育频道
@@ -46,11 +46,11 @@ http://gslb.gcable.cn:8070/live/gdsportsHD_7000.m3u8?t=GeJI&u=freeuser&p=8&pid=&
 #EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="电视",嘉佳卡通 576
 http://gslb.gcable.cn:8070/live/gdjiajiacartoon_1500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=kjlvkv6doTZIK7UJRT+o9w==&r=20230114012012&e=20230115012017&nc=BCVKUgNtJUIN&a=7&v=2
 #EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="电视",嘉佳卡通
-http://lu1.cc/itv/gdtv/gdtv.php?id=jjkt
+http://ainm.cc/c/tv/gdtv/gdtv.php?id=jjkt
 #EXTINF:-1 tvg-id="" tvg-name="广东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVSHAO.png" group-title="电视",广东少儿频道 576
 http://gslb.gcable.cn:8070/live/gdshaoer_1500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=G7DE5f+7qaUD/F7BxWM0Zg==&r=20230114012058&e=20230115012103&nc=GeJ3YAqBZqoj&a=7&v=2
 #EXTINF:-1 tvg-id="" tvg-name="广东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVSHAO.png" group-title="电视",广东少儿频道
-http://lu1.cc/itv/gdtv/gdtv.php?id=gdse
+http://ainm.cc/c/tv/gdtv/gdtv.php?id=gdse
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="电视",广东卫视
 http://xuehanwei.my03.com:8888/udp/239.253.92.206:8108
 #EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="电视",金鹰卡通 576
