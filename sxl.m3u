@@ -76,11 +76,11 @@ http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/
 #EXTINF:-1 tvg-id="" tvg-name="亚州新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="电视",亚州新闻台
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC earth" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",BBC earth
-https://pull-l3-cny.douyincdn.com/live/9db14f23d36e91fc386695057dd75ef6.m3u8
+https://pull-l3-cny.douyincdn.com/live/955e6d315a46ff136f383e27e9a5f89d.flv
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",翡翠台
 https://cdn1.yeslivetv.com/live/tvb-jade.m3u8?md5=cUGZ7mH7RQ4mgityqT221g&expires=1688075403
 #EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="电视",明珠台
-https://cdn1.yeslivetv.com/live/tvb-pearl.m3u8?md5=_Vc0NOubOAqz4U8m5CnNBg&expires=1688057997
+https://cdn1.yeslivetv.com/live/tvb-pearl.m3u8?md5=W_ztTv9L-aCIylyaTmJl8g&expires=1688060090
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",翡翠台·廣東版
 http://27.36.62.162:9090/live/1350_4500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=dNcQHGDCvjw3XPxbtY/WUA==&r=20230630003900&e=20230701003905&nc=WeUeOQyUAeXW&a=7&v=2&isSuma=1&hlsSessionID=17024452686060548500&srchost=172.16.149.181:8060&gid=9juUpQ6lo5RNzTPsOS8nJw%3D%3D
 #EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="电视",明珠台·廣東版
