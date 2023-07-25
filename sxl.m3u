@@ -78,9 +78,9 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3
 #EXTINF:-1 tvg-id="" tvg-name="BBC earth" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",BBC earth
 http://live.tvfix.org/hls/jadehk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",翡翠台
-https://cdn1.yeslivetv.com/live/tvb-jade.m3u8?md5=87ztsszMM3bTUX77tOjqVQ&expires=1690231933
+https://cdn1.yeslivetv.com/live/tvb-jade.m3u8?md5=DgvihWPkMtFpjSBn1FrSNA&expires=1690281299
 #EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="电视",明珠台
-https://cdn1.yeslivetv.com/live/tvb-pearl.m3u8?md5=cTIDAcgs1PtdIPevKIsLIg&expires=1690232804
+https://cdn1.yeslivetv.com/live/tvb-pearl.m3u8?md5=C0EhPKVTMwkzceS__ZtSXA&expires=1690281366
 #EXTINF:-1 tvg-id="" tvg-name ="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",翡翠台·廣東版
 http://27.36.62.162:9090/live/1350_4500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=Yj34yLw4Es2A+2J8x+8wDA==&r=20230701014449&e=20230702014454&nc=aHdXHHYcWrmn&a=7&v=2&isSuma=1&hlsSessionID=17024452686061218798&srchost=172.16.149.181:8060&gid=3LB8ulp8DpfZS%2FzjQ%2F%2B9Yw%3D%3D
 #EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="电视",明珠台·廣東版
@@ -96,26 +96,26 @@ https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_I-FINA_h2
 #EXTINF:-1 tvg-id="" tvg-name="HOY資訊台(78台)" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="电视",HOY資訊台(78台)
 https://pull-l3-cny.douyincdn.com/third/YesLiveTV-85bf005d-9337-4a2c-b1aa-9b93e22fd619.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HOY TV開電視(77台)" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="电视",HOY TV開電視(77台)
-https://cdn1.yeslivetv.com/live/hoytv.m3u8?md5=278cH4sH5kuWpGvH1bq5AQ&expires=1690233081
+https://cdn1.yeslivetv.com/live/hoytv.m3u8?md5=TIV3VGfIaFRgerrY8j4Ylg&expires=1690281450
 #EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="电视",ViuTV
-https://cdn1.yeslivetv.com/live/viu.m3u8?md5=TMNO6HNdmumCPZrfDE14GA&expires=1690232928
+https://cdn1.yeslivetv.com/live/viu.m3u8?md5=tV4_eicbmoSp0v2KdqxtUw&expires=1690281492
 #EXTINF:-1 tvg-id="" tvg-name="ViuTV Six" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="电视",ViuTV Six
 https://pull-l3-cny.douyincdn.com/third/YesLiveTV-27f75b88-855a-4520-9f2e-f83c753d65ae.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",TVB J2
-https://cdn1.yeslivetv.com/live/tvb-j2.m3u8?md5=rEa-CKZ66KLUCX_lqZ6BWg&expires=1688597280
+https://cdn1.yeslivetv.com/live/tvb-j2.m3u8?md5=DxtKd1ggNwDaQAwj0SO3Kw&expires=1690281408
 #EXTINF:-1 tvg-id="" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",TVB J2
 #EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="电视",無綫新聞台 720
-https://cdn1.yeslivetv.com/live/tvb-news.m3u8?md5=GX5xSdwCQlCRQ1O_D_6JTA&expires=1688597335
+https://cdn1.yeslivetv.com/live/tvb-news.m3u8?md5=akAlxaHTpMtFMkzk-0DwUw&expires=1690281525
 #EXTINF:-1 tvg-id="" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="电视",無綫財經·資訊台 720
-https://cdn1.yeslivetv.com/live/tvb-finance.m3u8?md5=VW1-eFLUjhxkspPhKAoN-Q&expires=1688597376
+https://cdn1.yeslivetv.com/live/tvb-finance.m3u8?md5=ZYECnR9XAH-xnRYRGPl8DQ&expires=1690281557
 #EXTINF:-1 tvg-id="" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",TVBS新聞台
-https://cdn1.yeslivetv.com/live/tvbs55.m3u8?md5=8cFOGKaGxSxJuwD_pNpw2g&expires=1690233172
+https://cdn1.yeslivetv.com/live/tvbs55.m3u8?md5=ToTMZeyJScAX6rF4wpDobw&expires=1690281627
 #EXTINF:-1 tvg-id="" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",TVBS 56台
 https://cdn1.yeslivetv.com/twiptv/4gtv-4gtv073/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CN卡通頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",CN卡通頻道
 https://pull-l3-cny.douyincdn.com/third/YesLiveTV-5fae14b1-0de7-44b0-874b-909d1b7e612d.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="東森新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",東森新聞台
-https://cdn1.yeslivetv.com/live/ebcnews.m3u8?md5=gCTLwzZlACZ5RNqh2AooAA&expires=1690233282
+https://cdn1.yeslivetv.com/live/ebcnews.m3u8?md5=0DO9UhXjgXGUbZ6FI-kuqA&expires=1690281593
 #EXTINF:-1 tvg-id="" tvg-name="Now爆谷台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",Now爆谷台.原声版测试
 https://stream.yeslivetv.com/live/YesLiveTV-tvbnews-16121490.m3u8?md5=0m1JDd1Urfis8iXjYpAswQ&expires=1686666027
 #EXTINF:-1 tvg-id="" tvg-name="Now爆谷星影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",Now爆谷星影台
