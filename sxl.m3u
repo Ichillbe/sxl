@@ -90,9 +90,9 @@ http://27.36.62.162:9090/live/1350_1500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=G
 #EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="电视",明珠台·廣東版 720
 http://27.36.62.162:9090/live/1351_1500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=UkFfVKIOUfuN3ZCZV8C3Gg==&r=20230701014629&e=20230702014634&nc=IdX3BpxmM6gc&a=7&v=2&isSuma=1&hlsSessionID=17024452686061218894&srchost=172.16.149.181:8060&gid=tZsOGSoqKC13ptj1TmKZaQ%3D%3D
 #EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="电视",無綫新聞台
-https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1690302222~exp=1690388622~acl=/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=fe33a2398fb36caef483fec60d68268f315865b5dc18a026868c2bd5523dea86&p
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1690386918~exp=1690473318~acl=/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=fef9e42f84187a8d3fdca7872cdfdf527ca4e82bb95a951b240d9a14076ad8f5&p
 #EXTINF:-1 tvg-id="" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="电视",無綫財經·資訊台
-https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1690302296~exp=1690388696~acl=/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/*~hmac=06d09c72e51d3cefa7623db2c285947e972e597e0e5b84b23340bea4e74dadd7&p
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1690387006~exp=1690473406~acl=/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/*~hmac=6136fcfe6d15357660192f58a61ea5259f065ca5eadacb490a35124c09687246&p
 #EXTINF:-1 tvg-id="" tvg-name="HOY資訊台(78台)" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="电视",HOY資訊台(78台)
 https://pull-l3-cny.douyincdn.com/third/YesLiveTV-85bf005d-9337-4a2c-b1aa-9b93e22fd619.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HOY TV開電視(77台)" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="电视",HOY TV開電視(77台)
