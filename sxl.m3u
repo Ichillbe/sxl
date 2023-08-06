@@ -18,7 +18,7 @@ http://xuehanwei.my03.com:8888/udp/239.253.92.88:8018
 #EXTINF:-1 tvg-id="" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="电视",广东珠江频道
 http://gslb.gcable.cn:8070/live/gdzhujiangHD_7500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=yMdUc39U6+Jxnbi7ydwhUw==&r=20230114010753&e=20230115010758&nc=aYtccgmPm15h&a=7&v=2
 #EXTINF:-1 tvg-id="" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="电视",广东珠江频道 576
-https://p.ggiptv.com/play.php?token=flaCur9PzgYwy9xuRlRI1H0k&tid=gt&id=54
+https://p.ggiptv.com/play.php?token=lbSgUPwgM1JET8Hut0lAhGmJ&tid=itv&id=5
 #EXTINF:-1 tvg-id="" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="电视",广东珠江频道 5762
 http://ainm.cc/c/tv/gdtv/gdtv.php?id=gdzj
 #EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="电视",广东新闻频道 576
@@ -108,9 +108,9 @@ https://p.ggiptv.com/play.php?token=sQfWhke0PiidTFJImFjcAT%2BG&tid=gt&id=17
 #EXTINF:-1 tvg-id="" tvg-name="now新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",NOW新闻台
 https://t45.iptv200.com/live/nowxw/index.m3u8?session=u6ezl268enxncwfnzdoutjdjn1tquky3
 #EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="电视",無綫新聞台 720
-https://cdn1.yeslivetv.com/live/tvb-news.m3u8?md5=akAlxaHTpMtFMkzk-0DwUw&expires=1690281525
+https://p.ggiptv.com/play.php?token=xW4IvsTFEEyR%2BugdwpVilBWV&tid=gt&id=6
 #EXTINF:-1 tvg-id="" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="电视",無綫財經·資訊台 720
-https://cdn1.yeslivetv.com/live/tvb-finance.m3u8?md5=ZYECnR9XAH-xnRYRGPl8DQ&expires=1690281557
+https://p.ggiptv.com/play.php?token=eobCOVg8Wp5cZxK6LM%2FLz7T8&tid=gt&id=7
 #EXTINF:-1 tvg-id="" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",TVBS新聞台
 https://p.ggiptv.com/play.php?token=flaCur9PzgYwy9xuRlRI1H0k&tid=gt&id=54
 #EXTINF:-1 tvg-id="" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",TVBS 56台
@@ -118,7 +118,7 @@ https://cdn1.yeslivetv.com/twiptv/4gtv-4gtv073/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CN卡通頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",CN卡通頻道
 https://pull-l3-cny.douyincdn.com/third/YesLiveTV-5fae14b1-0de7-44b0-874b-909d1b7e612d.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="東森新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",東森新聞台
-https://cdn1.yeslivetv.com/live/ebcnews.m3u8?md5=0DO9UhXjgXGUbZ6FI-kuqA&expires=1690281593
+https://p.ggiptv.com/play.php?token=xqVEGGwbBG%2FTADIc66oGfJMd&tid=gt&id=44
 #EXTINF:-1 tvg-id="" tvg-name="Now爆谷台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",Now爆谷台.原声版测试
 https://stream.yeslivetv.com/live/YesLiveTV-tvbnews-16121490.m3u8?md5=0m1JDd1Urfis8iXjYpAswQ&expires=1686666027
 #EXTINF:-1 tvg-id="" tvg-name="Now爆谷星影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视",Now爆谷星影台
