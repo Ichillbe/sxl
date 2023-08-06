@@ -86,7 +86,7 @@ http://27.36.62.162:9090/live/1350_4500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=G
 #EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="电视",明珠台·廣東版
 http://27.36.62.162:9090/live/1351_4500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=LvTJypbD3/Bnvbs4uLLgIA==&r=20230701014751&e=20230702014756&nc=pG3Hd6AwcbkZ&a=7&v=2&isSuma=1&hlsSessionID=8739236746582996736&srchost=172.16.149.181:8060&gid=KiMznFyBfdiQUpKjz29ZHg%3D%3D
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="电视",翡翠台·廣東版 720
-http://27.36.62.162:9090/live/1350_1500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=F3DGxJZRouoK0n6psAWoTA==&r=20230701014312&e=20230702014317&nc=rrHHjyvddbpA&a=7&v=2&isSuma=1&hlsSessionID=8739236746582996252&srchost=172.16.149.181:8060&gid=fVK%2FELNGjC7b%2FJ4EfhD07Q%3D%3D
+https://p.ggiptv.com/play.php?token=D7r2%2BNd0zs1QZeiyswhyd6q7&tid=gt&id=5
 #EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="电视",明珠台·廣東版 720
 http://27.36.62.162:9090/live/1351_1500.m3u8?t=GeJI&u=freeuser&p=8&pid=&cid=&d=GeJI&sid=UkFfVKIOUfuN3ZCZV8C3Gg==&r=20230701014629&e=20230702014634&nc=IdX3BpxmM6gc&a=7&v=2&isSuma=1&hlsSessionID=17024452686061218894&srchost=172.16.149.181:8060&gid=tZsOGSoqKC13ptj1TmKZaQ%3D%3D
 #EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="电视",無綫新聞台
