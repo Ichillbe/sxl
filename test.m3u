@@ -480,9 +480,9 @@ https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1,Trace_Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1,无线新聞
-https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_C_h264/__op/bks/__f/index.m3u8?hdnea=ip=120.87.85.215~st=1715826666~exp=1715913066~acl=/__cl/slocalr2625/__c/ott_C_h264/__op/bks/__f/*~hmac=07e02ec3dc6a34a3044d4da44516011fcdb47f792a9551aa65ae8db68bc828da
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/bks/__f/index.m3u8?hdnea=ip=120.87.85.9~st=1715842420~exp=1715928820~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/bks/__f/*~hmac=30e776ad261fc3ba8025d24a850d84c7df9fbd1b36e51ad0c3dd12e9c4718cc7
 #EXTINF:-1,无线财经
-https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_A_h264/__op/bks/__f/index.m3u8?hdnea=ip=120.87.85.215~st=1715826738~exp=1715913138~acl=/__cl/slocalr2625/__c/ott_A_h264/__op/bks/__f/*~hmac=09299fab534149cd27c979dbadad83ee8f955a0eb45b160e7540f7bfcc1c78fc
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/bks/__f/index.m3u8?hdnea=ip=120.87.85.9~st=1715842667~exp=1715929067~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/bks/__f/*~hmac=becec05d208fc2615fbabf34ede0b0b942de47d4b39eea9b77e3b8e169733b80
 #EXTINF:-1,音乐1
 https://vd3.bdstatic.com/mda-pjpmxj8nps7esymw/576p/h264/1698161340027041596/mda-pjpmxj8nps7esymw.mp4
 #EXTINF:-1,音乐2
